@@ -1,6 +1,6 @@
 BasedOnStyle: Google
 IndentWidth: 4
-ColumnLimit: 90
+ColumnLimit: 120
 Language: Cpp
 AlignConsecutiveAssignments: true
 SpaceAfterCStyleCast: true
@@ -19,3 +19,4 @@ IncludeBlocks: Preserve
 SpaceBeforeAssignmentOperators: true
 SpaceBeforeParens: ControlStatements
 SpaceInEmptyParentheses: false
+AlignEscapedNewlines: Right
